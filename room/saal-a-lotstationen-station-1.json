@@ -1,0 +1,16 @@
+{
+  "name": "Saal A - L\u00f6tstationen Station 1",
+  "slug": "saal-a-lotstationen-station-1",
+  "description": {
+    "de": null,
+    "en": null
+  },
+  "banner_image": null,
+  "type": "workshop",
+  "capacity": 12,
+  "links": [],
+  "tags": [],
+  "relations": {
+    "assembly_slug": "yoc"
+  }
+}

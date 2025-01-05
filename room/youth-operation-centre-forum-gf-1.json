@@ -1,0 +1,16 @@
+{
+  "name": "Youth Operation Centre Forum (GF1)",
+  "slug": "youth-operation-centre-forum-gf-1",
+  "description": {
+    "de": null,
+    "en": null
+  },
+  "banner_image": null,
+  "type": "stage",
+  "capacity": null,
+  "links": [],
+  "tags": [],
+  "relations": {
+    "assembly_slug": "yoc"
+  }
+}

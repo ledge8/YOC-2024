@@ -1,0 +1,16 @@
+{
+  "name": "Saal A - Programmierpl\u00e4tze",
+  "slug": "saal-a-programmierplatze",
+  "description": {
+    "de": "hinten links",
+    "en": "hinten links"
+  },
+  "banner_image": null,
+  "type": "workshop",
+  "capacity": 14,
+  "links": [],
+  "tags": [],
+  "relations": {
+    "assembly_slug": "yoc"
+  }
+}

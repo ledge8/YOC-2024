@@ -1,0 +1,16 @@
+{
+  "name": "Saal A - Podeste",
+  "slug": "saal-a-podeste",
+  "description": {
+    "de": "linker hand, hinter dem Makespace",
+    "en": "linker hand, hinter dem Makespace"
+  },
+  "banner_image": null,
+  "type": "stage",
+  "capacity": null,
+  "links": [],
+  "tags": [],
+  "relations": {
+    "assembly_slug": "yoc"
+  }
+}

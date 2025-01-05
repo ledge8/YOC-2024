@@ -1,0 +1,16 @@
+{
+  "name": "Saal A - Tischinsel",
+  "slug": "saal-a-tischinsel",
+  "description": {
+    "de": "runder Tisch von CMS und chaos.jetzt",
+    "en": "runder Tisch von CMS und chaos.jetzt"
+  },
+  "banner_image": null,
+  "type": "workshop",
+  "capacity": 10,
+  "links": [],
+  "tags": [],
+  "relations": {
+    "assembly_slug": "yoc"
+  }
+}

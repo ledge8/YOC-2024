@@ -1,0 +1,16 @@
+{
+  "name": "Saal A - Bastel/Hackspace",
+  "slug": "saal-a-bastelhack-und-makespace",
+  "description": {
+    "de": "Bereich rechte Seite, hinter den L\u00f6tstationen",
+    "en": "Bereich rechte Seite, hinter den L\u00f6tstationen"
+  },
+  "banner_image": null,
+  "type": "workshop",
+  "capacity": 20,
+  "links": [],
+  "tags": [],
+  "relations": {
+    "assembly_slug": "yoc"
+  }
+}
