@@ -1,0 +1,24 @@
+{
+  "name": "Wie funktioniert eigentlich das Internet?",
+  "slug": "wie-funktioniert-eigentlich-das-internet",
+  "location": null,
+  "language": "de",
+  "abstract": "Zu Hause zahlen wir einen Internetanbieter, um uns mit \"dem Internet\" zu verbinden. Aber wo kriegt dieser das eigentlich her?",
+  "description": {
+    "de": "",
+    "en": "Zu Hause zahlen wir einen Internetanbieter, um uns mit \"dem Internet\" zu verbinden. Aber wo kriegt dieser das eigentlich her?\r\nEin kurzer Lightningtalk dar\u00fcber, was das Internet eigentlich ist und wie das bei unserem Internetanbieter ankommt."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "14:30"
+  },
+  "schedule_duration": 15,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "youth-operation-centre-forum-gf-1"
+  }
+}

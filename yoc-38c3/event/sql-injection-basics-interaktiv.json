@@ -1,0 +1,24 @@
+{
+  "name": "SQL injection basics interaktiv",
+  "slug": "sql-injection-basics-interaktiv",
+  "location": null,
+  "language": "de",
+  "abstract": "Wir brechen in eine Filmdatenbank ein!",
+  "description": {
+    "de": "",
+    "en": "Lerne, wie Du eine der gef\u00e4hrlichsten Schwachstellen in Webanwendungen aufsp\u00fcrst: die SQL Injection. In diesem interaktiven Workshop tauchen wir gemeinsam in eine Cyberrange ein, wo Du die M\u00f6glichkeit hast, selbst Hand anzulegen und gezielt Sicherheitsl\u00fccken in realit\u00e4tsnahen Umgebungen zu finden und auszunutzen. Wir analysieren gemeinsam, wie diese L\u00fccken entstehen, testen ein von mir entwickeltes Visualisierungstool und besprechen Best Practices, um Anwendungen sicherer zu machen.\r\n(~90% Praxis, max. 10% Theorie).\r\n\r\nVoraussetzungen fachlich: Einfache Code-Schnipsel lesen und grob verstehen.\r\n\r\nVoraussetzungen technisch: Einige Laptops mit Internet werden vor Ort sein. Wenn privater Laptop (ggf. geteilt mit 1-2 Leuten?), dann ein moderner Browser (z.B. Firefox, Chrome) und eingerichteter Internet-Zugang."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "19:30"
+  },
+  "schedule_duration": 90,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-programmierplatze"
+  }
+}

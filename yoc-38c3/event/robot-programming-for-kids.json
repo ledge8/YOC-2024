@@ -1,0 +1,22 @@
+{
+  "name": "Robot programming for kids",
+  "slug": "robot-programming-for-kids",
+  "location": null,
+  "language": "en",
+  "abstract": "An offer to host a stand for Hackerjugendtag",
+  "description": {
+    "de": "",
+    "en": "TuxGo is a reimplementation of \"ScottieGO!\" game, where you can program a robot (give 'im some >illegal instructions) using board-game-like tokens. In contrast to the original game, the robot is physical and the child will not operate any screen nor keyboard.\r\n\r\nASSY: https://events.ccc.de/congress/2024/hub/en/assembly/tuxgo/\r\nDECT: 9658 [WOJU]"
+  },
+  "schedule_start": {
+    "conference_day": 4,
+    "time": "10:00"
+  },
+  "schedule_duration": 60,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": null
+  }
+}

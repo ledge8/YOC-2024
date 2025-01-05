@@ -1,0 +1,22 @@
+{
+  "name": "Spa\u00df mit Ozobots",
+  "slug": "spa-mit-ozobots",
+  "location": null,
+  "language": "de",
+  "abstract": "Ozobots  sind kleine Roboter die Linien folgen und durch Farbcodes gesteuert werden k\u00f6nnen.",
+  "description": {
+    "de": null,
+    "en": "Ozobots  sind kleine Roboter die Linien folgen und durch Farbcodes gesteuert werden k\u00f6nnen. Besonderen Spa\u00df macht es, die Linien selbst zu malen."
+  },
+  "schedule_start": {
+    "conference_day": 3,
+    "time": "10:00"
+  },
+  "schedule_duration": 60,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-podeste"
+  }
+}

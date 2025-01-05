@@ -1,0 +1,24 @@
+{
+  "name": "Vorstellung Jugend hackt Jugendbeirat",
+  "slug": "vorstellung-jugend-hackt-jugendbeirat",
+  "location": null,
+  "language": "de",
+  "abstract": "Was ist, der Jugend hackt Jugendbeirat und was machen wir eigentlich?",
+  "description": {
+    "de": "",
+    "en": "Seit Anfang 2022 gibt es den Jugend hackt Jugendbeirat.\r\nHier geben wir einen kurzen \u00dcberblick dar\u00fcber wer wir sind, was wir machen und wie du mitmachen kannst."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "14:45"
+  },
+  "schedule_duration": 10,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "youth-operation-centre-forum-gf-1"
+  }
+}

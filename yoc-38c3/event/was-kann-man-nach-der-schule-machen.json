@@ -1,0 +1,22 @@
+{
+  "name": "Was kann man nach der Schule machen?",
+  "slug": "was-kann-man-nach-der-schule-machen",
+  "location": null,
+  "language": "de",
+  "abstract": "Es gibt verschiedene M\u00f6glichkeiten in die IT einzusteigen. Dazu geh\u00f6ren ein FSJ, eine Ausbildung, ein duales Studium oder ein normales Studium,",
+  "description": {
+    "de": null,
+    "en": "Du bist mit der Schule fertig, was nun? Es gibt extrem viele M\u00f6glichkeiten, sich nach der Schule weiter zu entwickeln. Ob ein FSJ, eine Ausbildung, ein duales Studium oder ein normales Studium, die M\u00f6glichkeiten sind vielf\u00e4ltig. Wir sprechen \u00fcber die Unterschiede zwischen den M\u00f6glichkeiten."
+  },
+  "schedule_start": {
+    "conference_day": 4,
+    "time": "12:30"
+  },
+  "schedule_duration": 30,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "youth-operation-centre-forum-gf-1"
+  }
+}
