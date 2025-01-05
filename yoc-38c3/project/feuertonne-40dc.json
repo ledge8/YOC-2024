@@ -1,0 +1,21 @@
+{
+  "name": "Feuertonne",
+  "slug": "feuertonne-40dc",
+  "description": {
+    "de": "Wir wollen eine Feuertonne aus WLED, einem alten Fass und Mainboards bauen. Es wird Sessions geben, die hier verlinkt werden.",
+    "en": "We want to build a fire barrel from WLED, an old barrel and mainboards. There will be sessions, which will be linked here."
+  },
+  "tags": [
+    "art",
+    "wled",
+    "feuertonne",
+    "building",
+    "mainboards"
+  ],
+  "banner_image": null,
+  "location": "",
+  "links": [],
+  "relations": {
+    "assembly_slug": "yoc"
+  }
+}
