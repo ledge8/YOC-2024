@@ -1,0 +1,29 @@
+{
+  "name": "Youth Operation Center",
+  "slug": "yoc",
+  "description": {
+    "de": "Juhu! [Jugend hackt](https://events.ccc.de/congress/2024/hub/en/assembly/jugendhackt/), [chaos.jetzt](https://events.ccc.de/congress/2024/hub/en/assembly/chaos_jetzt/), [Chaos macht Schule](https://events.ccc.de/congress/2024/hub/en/assembly/cms/) und der [Verstehbahnhof](https://www.verstehbahnhof.de/) kommen mit vereinten Kr\u00e4ften als Youth Operation Center auf den 38C3.\r\n\r\nWir bespielen gemeinsam Saal A. Unser Infosdesk und ein kleines Forum findest du im Garderobenfoyer. In Saal A gibt es einen Workshopbereich, einen Make Space mit Lasercutter und 3D-Druckern, L\u00f6tstationen, einen Ruheraum f\u00fcr Jugendliche sowie eine Sitzlandschaft, die auch als Forum f\u00fcr Talks und anderes B\u00fchnenprogramm genutzt werden kann.\r\n\r\nUnser CFP ist noch ge\u00f6ffnet: [hier zum CFP](https://fahrplan.alpaka.space/jugend-hackt-38c3-2024/cfp)\r\n\r\nDECT \r\nInfodesk: 4962 (IYOC)\r\nAwareness: 2962 (AYOC)\r\n\r\nWichtig ist, dass du den [Code of Conduct](https://jugendhackt.org/code-of-conduct/) kennst und dich daran h\u00e4ltst. Er gilt im gesamten Bereich des YOC!\r\n\r\nUnseren Infopoint findest du [im Garderobenfoyer im ersten Stock hier](https://38c3.c3nav.de/l/c:1:145.38:172.78/).\r\nUnser Youth Operation mit den L\u00f6t- & Programmierpl\u00e4tzen, sowie der Stickmaschine und unserem LaserCutter findest du im [Saal A hier](https://38c3.c3nav.de/l/c:1:58.34:147.44/).",
+    "en": "Yay! [Jugend hackt](https://events.ccc.de/congress/2024/hub/en/assembly/jugendhackt/), [chaos.jetzt](https://events.ccc.de/congress/2024/hub/en/assembly/chaos_jetzt/), [Chaos macht Schule](https://events.ccc.de/congress/2024/hub/en/assembly/cms/) and the [Verstehbahnhof](https://www.verstehbahnhof.de/) are joining forces as the Youth Operation Center at 38C3.\r\n\r\nWe will be in Hall A. You will find our info desk and a small forum in the checkroom foyer. In Hall A there is a workshop area, a make space with laser cutters and 3D printers, soldering stations, a quiet room for young people and a seating area that can also be used as a forum for talks and other stage programs.\r\n\r\nOur CFP is still open: [here to CFP](https://fahrplan.alpaka.space/jugend-hackt-38c3-2024/cfp)\r\n\r\nDECT \r\nInfodesk: 4962 (IYOC)\r\nAwareness: 2962 (AYOC)\r\n\r\nIt is important that you are familiar with the [Code of Conduct](https://jugendhackt.org/code-of-conduct/) and adhere to it. It applies to the entire YOC!\r\n\r\nYou can find our Infopoint [here](https://38c3.c3nav.de/l/c:1:145.38:172.78/)\r\nOur Room with soldering and programmingstations, embroidery machine and lasercuter can you find [here](https://38c3.c3nav.de/l/c:1:58.34:147.44/)."
+  },
+  "registration_data": {
+    "type": null,
+    "money": null,
+    "seats": null,
+    "track": null,
+    "workshop": null,
+    "extra_infra": null,
+    "arrival_date": null,
+    "additional_space": null
+  },
+  "registration_details": "",
+  "location": "",
+  "public_contact": null,
+  "public_link": null,
+  "banner_image": null,
+  "tags": [
+    "jugend",
+    "junghackerinnentag",
+    "youth",
+    "youth_hacking"
+  ]
+}
