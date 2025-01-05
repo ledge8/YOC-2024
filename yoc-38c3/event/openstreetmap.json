@@ -1,0 +1,22 @@
+{
+  "name": "OpenStreetMap",
+  "slug": "openstreetmap",
+  "location": null,
+  "language": "de",
+  "abstract": "Im Workshop lernen die Teilnehmenden, aktiv zur OpenStreetMap beizutragen.Der Fokus liegt auf der Vermittlung von digitalen Kompetenzen, der Bedeutung freier Daten und der F\u00f6rderung von Zusammenarbeit",
+  "description": {
+    "de": null,
+    "en": "Entdecke die Welt von OpenStreetMap und werde ein Teil der OpenData-Bewegung! \ud83d\uddfa\ufe0f\r\n\r\nEgal, ob du schon mal von OpenStreetMap geh\u00f6rt hast oder nicht, in unserem Workshop lernst du, wie du selbst aktiv an einer der gr\u00f6\u00dften freien Kartenprojekte der Welt mitwirken kannst. Hier erf\u00e4hrst du, warum OpenData so wichtig ist und wie jede:r Einzelne dazu beitragen kann, die Daten f\u00fcr alle Menschen besser zu machen.\r\n\r\nIm Gegensatz zu den Karten gro\u00dfer Firmen wie Google Maps ist OpenStreetMap von der Community f\u00fcr die Community. Das bedeutet, dass jede:r Daten hinzuf\u00fcgen oder korrigieren kann. Und das Beste daran? Es macht riesigen Spa\u00df, dabei mitzumachen! \ud83d\ude03\r\n\r\nAlso komm vorbei und lass uns gemeinsam die Welt ein St\u00fcckchen besser kartieren! \ud83c\udf0d"
+  },
+  "schedule_start": {
+    "conference_day": 3,
+    "time": "11:00"
+  },
+  "schedule_duration": 120,
+  "tags": [],
+  "banner_image": "media/event/openstreetmap.banner.png",
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-programmierplatze"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Alpaka Pub Quiz",
+  "slug": "2-alpaka-pub-quiz",
+  "location": null,
+  "language": "de",
+  "abstract": "Nerd & Technologie Trivia Quiz",
+  "description": {
+    "de": "",
+    "en": "Nach dem vollen Erfolg des Alpaka Pub Quizzes w\u00e4hrend Jugend hackt Berlin, wollen wir jeden Abend einen Quiz mit 25 Trivia Fragen zu Pop-Kultur, Fandom und Technologie machen. Wie bei jedem guten Pub Quiz tretet ihr als Team (2-5 Personen) gegeneinander an.\r\nGoogle und Chat-GPT sind nicht erlaubt - all devices off."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "19:00"
+  },
+  "schedule_duration": 90,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "youth-operation-centre-forum-gf-1"
+  }
+}

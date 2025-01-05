@@ -1,0 +1,22 @@
+{
+  "name": "Glow up! LED Schmuck und leuchtende Dinos basteln",
+  "slug": "glow-up-led-schmuck-und-leuchtende-dinos-basteln",
+  "location": null,
+  "language": "de",
+  "abstract": "Gestalte eye-catchy LED-Ohrringe, LED-Anh\u00e4nger oder eine Dinokette mit leuchtenden Augen.",
+  "description": {
+    "de": null,
+    "en": "Gestalte eye-catchy LED-Ohrringe, -Anh\u00e4nger oder eine Dinokette mit leuchtenden Augen. So wird der CCC noch bunter und verr\u00fcckter! Wir verwenden einen Materialmix aus LEDs, Kabel/Dr\u00e4hte, 3D gedruckten Teile, leitf\u00e4higen Garn und Schmuckzubeh\u00f6r.\r\n\r\nZu diesem Workshop kannst du jederzeit vorbeikommen und schauen ob es freie Pl\u00e4tze gibt. \r\nSolange der Vorrat reicht!"
+  },
+  "schedule_start": {
+    "conference_day": 3,
+    "time": "16:30"
+  },
+  "schedule_duration": 120,
+  "tags": [],
+  "banner_image": "media/event/glow-up-led-schmuck-und-leuchtende-dinos-basteln.banner.png",
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-lotstationen-station-1"
+  }
+}

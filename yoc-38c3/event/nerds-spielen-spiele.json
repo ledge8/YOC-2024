@@ -1,0 +1,24 @@
+{
+  "name": "Nerds spielen Spiele",
+  "slug": "nerds-spielen-spiele",
+  "location": null,
+  "language": "de",
+  "abstract": "Was machen die Congressteilnehmenden eigentlich, wenn sie nicht gerade am Rechner programmieren? Dann spielen Nerds Spiele f\u00fcr Nerds - spiel mit!",
+  "description": {
+    "de": "",
+    "en": "Was machen die Congressteilnehmenden eigentlich, wenn sie nicht gerade am Rechner programmieren? Dann werden Roboter mit Karten im Rahmen eines Brettspiels programmiert (Roboralley), W\u00f6rter codiert (Decrypto), es wird f\u00fcr 5-Minuten (5-Minute-Dungeon) in ein Verlies eingestiegen oder CPU-Stichquartett gespielt . Wer es anspruchsvoll mag, kann sich auch an Lochkarten versuchen (Turing-Machine). Wir spielen Spiele mit jungen Menschen, die alle einen hohen Nerdfaktor haben."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "13:30"
+  },
+  "schedule_duration": 120,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": "media/event/nerds-spielen-spiele.banner.jpg",
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-tischinsel"
+  }
+}

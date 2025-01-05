@@ -1,0 +1,24 @@
+{
+  "name": "Hacker*innen Jeopardy",
+  "slug": "hacker-innen-jeopardy",
+  "location": null,
+  "language": "de",
+  "abstract": "Quiz-Runde im Jeopardy-Format",
+  "description": {
+    "de": "",
+    "en": "Das Quiz f\u00fcr Technik-Interessierte!\r\n\r\nTestet gemeinsam euer Wissen \u00fcber Cybersecurity, Programmierung, Internetkultur und mehr. Beim Hacker*innen Jeopardy geht es nicht um den Wettkampf, sondern darum, Neues zu lernen und gemeinsam Spa\u00df zu haben. Egal, ob du schon viel wei\u00dft oder gerade erst einsteigst \u2013 alle sind willkommen, mitzumachen und zu entdecken! \ud83d\udda5\ufe0f\ud83c\udf0d"
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "17:00"
+  },
+  "schedule_duration": 60,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "youth-operation-centre-forum-gf-1"
+  }
+}

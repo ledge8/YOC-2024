@@ -1,0 +1,22 @@
+{
+  "name": "Einen CLI mit Rust erstellen",
+  "slug": "einen-cli-mit-rust-erstellen",
+  "location": null,
+  "language": "de",
+  "abstract": "Lerne, wie Du mit Rust und der Clap-Bibliothek Schritt f\u00fcr Schirtt einen eigenen CLI programmieren kannst!",
+  "description": {
+    "de": null,
+    "en": "## Beschreibung\r\n\r\nM\u00f6chtest Du die Grundlagen von Rust lernen und dabei direkt ein praktisches Projekt umsetzen?\r\nIn diesem Workshop kannst Du lernen, wie Du ohne Rust-Vorkenntnisse einen eigenen CLI mit Rust und der Clap-Bibliothek erstellen kannst.\r\nRust ist eine sehr Interessante, schnelle und sichere Programmiersprache, welche seit Jahren von Entwicklern weltweit als beliebteste \u00fcberhaupt gew\u00e4hlt wird, und [Clap](https://docs.rs/clap/latest/clap/) macht es ganz einfach einen CLI zu programmieren.\r\n\r\nDer Workshop ist ideal f\u00fcr alle Rust-Interessierten.\r\n\r\n## Was erwartet dich?\r\n\r\n- Wichtigste Rust Strukturen\r\n- Erstellen von einem Rust Projekt\r\n- Clap Bibliothek zum erstellen eines CLIs\r\n\r\n## Bitte bringe Folgendes mit:\r\n\r\n- Programmiervorkenntnisse (Rust Kenntnisse nicht n\u00f6tig)\r\n- Laptop (Mit Rust installiert)\r\n- Internetverbindung\r\n- Einfache CLI-Ideen (optional)\r\n\r\nDie Veranstaltung kann nur mit einem Ticket besucht werden, welches hier geklickt werden kann: [Ticketshop](https://ogy.de/mdvk). Die Tickets sind jeweils am Vortag ab 10 Uhr verf\u00fcgbar."
+  },
+  "schedule_start": {
+    "conference_day": 3,
+    "time": "12:00"
+  },
+  "schedule_duration": 150,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "youth-operation-centre-forum-gf-1"
+  }
+}

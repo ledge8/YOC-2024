@@ -1,0 +1,22 @@
+{
+  "name": "MarbleMaze",
+  "slug": "marblemaze",
+  "location": null,
+  "language": "de",
+  "abstract": "Ein eigenes 3D Spiel mit Godot entwickeln (Open Source 3D Engine). Spiel-Ziel: Ein Ball muss mit den Richtungstasten durch ein Labyrinth bis zum Ziel gef\u00fchrt werden.",
+  "description": {
+    "de": null,
+    "en": "Ein eigenes 3D Spiel mit Godot entwickeln (Open Source 3D Engine). Spiel-Ziel: Ein Ball muss mit den Richtungstasten durch ein Labyrinth bis zum Ziel gef\u00fchrt werden. F\u00e4llt der Ball vom Spielfeld beginnt das Spiel von vorne.\r\n\r\n- Ca. 40 Zeilen Code die im ersten Schritt kopiert/abgeschrieben werden und dann modifiziert werden.\r\n- Es werden keinerlei externen 3D Assets (Modelle, Texturen, ...) verwendet, es wird alles innerhalb des Godot Editors selber erstellt.\r\n- Wir beginnen gemeinsam mit einem einfachen Level aus wenigen Elementen und implementieren die elementare Spielelogik. Ab diesem Zeitpunkt k\u00f6nnen die Jugendlichen ihr Level (oder Levels) individuell erweitern und daraus ein komplexeres Spiel machen."
+  },
+  "schedule_start": {
+    "conference_day": 3,
+    "time": "13:00"
+  },
+  "schedule_duration": 120,
+  "tags": [],
+  "banner_image": "media/event/marblemaze.banner.jpg",
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-programmierplatze"
+  }
+}

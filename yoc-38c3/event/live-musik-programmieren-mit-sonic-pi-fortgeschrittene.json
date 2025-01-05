@@ -1,0 +1,22 @@
+{
+  "name": "Live Musik programmieren mit Sonic Pi (Fortgeschrittene)",
+  "slug": "live-musik-programmieren-mit-sonic-pi-fortgeschrittene",
+  "location": null,
+  "language": "de",
+  "abstract": "Lerne eine Programmiersprache live wie ein Musikinstrument zu spielen (grundlegende Programmierkenntnisse erforderlich)",
+  "description": {
+    "de": null,
+    "en": "Sonic Pi ist eine Programmierumgebung in der man mit Hilfe einer Programmiersprache Musik machen kann.\r\n\r\nDie spezielle Laufzeitumgebung von Sonic Pi erlaubt es, Programme w\u00e4hrend der Laufzeit zu ver\u00e4ndern. Die generierte Musik passt sich entsprechend an, ohne, dass das Programm neu gestartet werden muss. Diese Besonderheit erm\u00f6glicht es, die Programmiersprache wie ein Instrument zu spielen und damit Livemusik zu machen.\r\n\r\nWir lernen im Workshop, wie man mit Sonic Pi schrittweise live einen Song aufbaut.\r\n\r\nDu solltest bereits grundlegende Programmierkenntnisse \u00fcber Dinge wie Bedingungen, Schleifen, Funktionen, Datentypen und Datenstrukturen mitbringen.\r\n\r\nSonic Pi ist explizit f\u00fcr Einsteiger\\*innen konzipiert und leicht zug\u00e4nglich, eignet sich jedoch auch f\u00fcr Fortgeschrittene und wird sogar von professionellen K\u00fcnstler*innen f\u00fcr Liveauftritte eingesetzt."
+  },
+  "schedule_start": {
+    "conference_day": 4,
+    "time": "12:30"
+  },
+  "schedule_duration": 120,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-programmierplatze"
+  }
+}

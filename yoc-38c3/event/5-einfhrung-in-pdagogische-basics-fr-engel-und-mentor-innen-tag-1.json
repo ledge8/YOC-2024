@@ -1,0 +1,22 @@
+{
+  "name": "Einf\u00fchrung in p\u00e4dagogische Basics f\u00fcr Engel und Mentor*innen (Tag 1)",
+  "slug": "5-einfhrung-in-pdagogische-basics-fr-engel-und-mentor-innen-tag-1",
+  "location": null,
+  "language": "de",
+  "abstract": "Alle Engel und Mentor*innen, die im YOC unterst\u00fctzen, bekommen ein kurzes Briefing von Jugend hackt zu p\u00e4dagogischen Basics und dem Code of Conduct.",
+  "description": {
+    "de": "Alle Engel und Mentor*innen, die im YOC unterst\u00fctzen, bekommen ein kurzes Briefing von Jugend hackt zu p\u00e4dagogischen Basics und dem Code of Conduct.",
+    "en": "Alle Engel und Mentor*innen, die im YOC unterst\u00fctzen, bekommen ein kurzes Briefing von Jugend hackt zu p\u00e4dagogischen Basics und dem Code of Conduct."
+  },
+  "schedule_start": {
+    "conference_day": 3,
+    "time": "11:00"
+  },
+  "schedule_duration": 30,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": null
+  }
+}

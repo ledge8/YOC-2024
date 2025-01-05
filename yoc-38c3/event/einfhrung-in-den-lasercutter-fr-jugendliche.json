@@ -1,0 +1,22 @@
+{
+  "name": "Einf\u00fchrung in den Lasercutter f\u00fcr Jugendliche",
+  "slug": "einfhrung-in-den-lasercutter-fr-jugendliche",
+  "location": null,
+  "language": "de",
+  "abstract": "Einf\u00fchrung in den Lasercutter f\u00fcr Jugendliche",
+  "description": {
+    "de": null,
+    "en": "Einf\u00fchrung in den Lasercutter f\u00fcr Jugendliche"
+  },
+  "schedule_start": {
+    "conference_day": 1,
+    "time": "13:00"
+  },
+  "schedule_duration": 60,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-makespace"
+  }
+}

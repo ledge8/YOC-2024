@@ -1,0 +1,22 @@
+{
+  "name": "VoxelBox Hacking",
+  "slug": "0-voxelbox-hacking",
+  "location": null,
+  "language": "de",
+  "abstract": "Einsteiger Workshop VoxelBox Programmierung",
+  "description": {
+    "de": null,
+    "en": "In dem Workshop lernt ihr den Voxelbox Simulator kennen und erlernt damit wie ihr die Voxelbox nach euren Vorstellungen zum Leuchten bringen k\u00f6nnt.\r\n\r\nhttps://codeberg.org/VoxelBox/voxelbox\r\n\r\nProgrammiert wird in Python und Grundkenntnisse sind hilfreich.\r\n\r\nDie Veranstaltung kann nur mit einem Ticket besucht werden, welches hier geklickt werden kann: [Ticketshop](https://ogy.de/mdvk). Die Tickets sind jeweils am Vortag ab 10 Uhr verf\u00fcgbar."
+  },
+  "schedule_start": {
+    "conference_day": 1,
+    "time": "10:00"
+  },
+  "schedule_duration": 60,
+  "tags": [],
+  "banner_image": "media/event/0-voxelbox-hacking.banner.jpg",
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-programmierplatze"
+  }
+}

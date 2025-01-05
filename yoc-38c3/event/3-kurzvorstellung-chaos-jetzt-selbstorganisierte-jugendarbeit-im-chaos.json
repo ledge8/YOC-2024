@@ -1,0 +1,22 @@
+{
+  "name": "Kurzvorstellung chaos.jetzt: Selbstorganisierte Jugendarbeit im Chaos",
+  "slug": "3-kurzvorstellung-chaos-jetzt-selbstorganisierte-jugendarbeit-im-chaos",
+  "location": null,
+  "language": "de",
+  "abstract": "Was ist chaos.jetzt und was tun die so?\r\nEine Kurzvorstellung f\u00fcr die, die noch nie was davon geh\u00f6rt haben.",
+  "description": {
+    "de": null,
+    "en": "Eine ganz kurze Vorstellung von chaos.jetzt.\r\nWer ist chaos.jetzt und was tut chaos.jetzt?"
+  },
+  "schedule_start": {
+    "conference_day": 4,
+    "time": "11:00"
+  },
+  "schedule_duration": 15,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "youth-operation-centre-forum-gf-1"
+  }
+}

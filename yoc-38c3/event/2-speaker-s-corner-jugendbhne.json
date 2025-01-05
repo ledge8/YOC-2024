@@ -1,0 +1,22 @@
+{
+  "name": "Speaker's Corner Jugendb\u00fchne",
+  "slug": "2-speaker-s-corner-jugendbhne",
+  "location": null,
+  "language": "de",
+  "abstract": "Offene B\u00fchne f\u00fcr alle Entit\u00e4ten zwischen 12-21 Jahren. Kurze Anmeldung deines Talks am YOC-Infodesk im Garderobenfoyer.",
+  "description": {
+    "de": null,
+    "en": "Du bist zwischen 12-21 Jahre alt und hast was zu sagen? Willst du einfach nur dein neues Projekt vorstellen, deine Leidenschaft f\u00fcr Alpakas teilen oder deinen neuesten Food-Hack zeigenn? The stage is yours! Dein Talk sollte 10-20 Minuten nicht \u00fcberschreiten. Meld dich einfach vorher am YOC-Infodesk im Garderobenfoyer an."
+  },
+  "schedule_start": {
+    "conference_day": 3,
+    "time": "15:00"
+  },
+  "schedule_duration": 120,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "youth-operation-centre-forum-gf-1"
+  }
+}

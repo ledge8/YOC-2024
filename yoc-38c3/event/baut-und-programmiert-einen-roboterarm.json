@@ -1,0 +1,24 @@
+{
+  "name": "Baut und programmiert einen Roboterarm",
+  "slug": "baut-und-programmiert-einen-roboterarm",
+  "location": null,
+  "language": "de",
+  "abstract": "Bock auf Roboter?\r\nIn diesem Workshop baust du deinen eigenen Roboterarm und lernst, wie du ihn mit Code zum Leben erweckst! Sieh selbst: https://youtube.com/shorts/oafrhNWhoxY",
+  "description": {
+    "de": "",
+    "en": "Was machen wir?\r\n\t\u2022\tStep 1: Zusammenbauen\r\nDu baust aus Servomotoren, Gelenken und einem Greifer einen funktionierenden Roboterarm. Keine Sorge, wir erkl\u00e4ren alles Schritt f\u00fcr Schritt.\r\n\t\u2022\tStep 2: Programmieren\r\nMit einem Microcontroller (Raspberry Pi Pico) programmierst du, wie der Roboterarm sich bewegen soll. Ob er Sachen greifen, sich drehen oder coole Bewegungen ausf\u00fchren soll \u2013 du steuerst ihn komplett!\r\n\r\nF\u00fcr wen ist der Workshop?\r\nF\u00fcr alle zwischen 12 und 18 Jahren, die Lust haben, mit Technik zu experimentieren. Vorkenntnisse? Nicht n\u00f6tig! Neugier reicht.\r\n\r\nWarum solltest du mitmachen?\r\n\t\u2022\tDu lernst, wie Roboter wirklich funktionieren.\r\n\t\u2022\tDu tauchst in die Welt der Programmierung ein \u2013 ohne langweilige Theorie.\r\n\t\u2022\tDu kannst am Ende stolz deinen eigenen Roboterarm pr\u00e4sentieren.\r\n\t\u2022\tEs macht einfach mega Spa\u00df, mit anderen zu bauen und zu coden!\r\n\r\nWas brauchst du?\r\nNichts au\u00dfer Motivation! Wir stellen alles zur Verf\u00fcgung, was du f\u00fcr den Workshop brauchst.\r\n\r\nDer Workshop kann nur mit einem Ticket besucht werden, welches hier geklickt werden kann: https://pretix.eu/junghackerinnentag/tickets/\r\nDie Tickets werden nicht vor der Er\u00f6ffnungsveranstaltung am Junghackerinnentag um 10 Uhr verf\u00fcgbar sein."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "11:00"
+  },
+  "schedule_duration": 180,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-bastelhack-und-makespace"
+  }
+}

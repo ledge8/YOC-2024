@@ -1,0 +1,22 @@
+{
+  "name": "Einf\u00fchrung in die Stickmaschine f\u00fcr Mentor*innen",
+  "slug": "einfhrung-in-die-stickmaschine-fr-mentor-innen",
+  "location": null,
+  "language": "de",
+  "abstract": "Einf\u00fchrung in die Stickmaschine f\u00fcr Mentor*innen",
+  "description": {
+    "de": null,
+    "en": "Einf\u00fchrung in die Stickmaschine f\u00fcr Mentor*innen"
+  },
+  "schedule_start": {
+    "conference_day": 1,
+    "time": "16:00"
+  },
+  "schedule_duration": 30,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-makespace"
+  }
+}

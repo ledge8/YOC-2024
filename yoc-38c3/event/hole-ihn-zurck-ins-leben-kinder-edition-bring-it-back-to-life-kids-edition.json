@@ -1,0 +1,22 @@
+{
+  "name": "Hole ihn zur\u00fcck ins Leben! Kinder-Edition / Bring it back to life! Kids Edition",
+  "slug": "hole-ihn-zurck-ins-leben-kinder-edition-bring-it-back-to-life-kids-edition",
+  "location": null,
+  "language": "de",
+  "abstract": "Schenk deinen Kindern in diesem Workshop mit KDE Eco ein \u201eneues\u201c altes Linux-Spielger\u00e4t. / Give your kids a \u201cnew\u201d old Linux gaming device in this drop-in workshop with KDE Eco. Bring your own device.",
+  "description": {
+    "de": null,
+    "en": "**Deutsch**: Schenk deinen Kindern zu den Feiertagen ein \u201eneues\u201c altes Ger\u00e4t f\u00fcr Linux-Spiele, sei es f\u00fcr Bildungs- oder Freizeitzwecke! Erwecke deinen alten Laptop zu neuem Leben und reduziere giftigen Elektroschrott mit Free & Open Source Software in diesem Drop-In Workshop mit KDE Eco (eco.kde.org). Das nachhaltigste Ger\u00e4t ist das, das du bereits besitzt! Anf\u00e4ngerfreundlich, technische Kenntnisse sind nicht erforderlich. *Wichtig: alte Laptops werden nicht zur Verf\u00fcgung gestellt, bring einen mit.*\r\n\r\n**English**: Give your kids a \u201cnew\u201d old device for Linux gaming this holiday season, whether for educational or recreational purposes! Bring your old laptop back to life and reduce toxic e-waste with KDE/Free & Open Source software in this drop-in workshop with KDE Eco (eco.kde.org). The most sustainable device is the one you already own! Beginner friendly, no technical knowledge required. *Important: old laptops not provided, bring one with you.*"
+  },
+  "schedule_start": {
+    "conference_day": 3,
+    "time": "11:00"
+  },
+  "schedule_duration": 180,
+  "tags": [],
+  "banner_image": "media/event/hole-ihn-zurck-ins-leben-kinder-edition-bring-it-back-to-life-kids-edition.banner.png",
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-5"
+  }
+}

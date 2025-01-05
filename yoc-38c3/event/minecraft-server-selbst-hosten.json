@@ -1,0 +1,24 @@
+{
+  "name": "Minecraft Server selbst hosten",
+  "slug": "minecraft-server-selbst-hosten",
+  "location": null,
+  "language": "de",
+  "abstract": "Hierum soll es wie der Name schon sagt um das einrichten eines Minecraft Servers gehen um mit Freunden darauf zu spielen.",
+  "description": {
+    "de": "",
+    "en": "In diesem Workshop soll es um das einrichten eines Minecraft Servers gehen um mit Freunden darauf zu spielen. Falls noch Zeit ist werde ich noch zeigen wie man mit VPN Technologien unter anderen mit Tailscale es m\u00f6glich ist auch \u00fcber das Internet ohne Portfreigaben mit anderen Leuten zu spielen. Linux-Shell Grundkenntnisse sind hilfreich aber nicht erforderlich.\r\n\r\nDer Workshop kann nur mit einem Ticket besucht werden, welches hier geklickt werden kann: https://pretix.eu/junghackerinnentag/tickets/\r\nDie Tickets werden nicht vor der Er\u00f6ffnungsveranstaltung am Junghackerinnentag um 10 Uhr verf\u00fcgbar sein."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "11:00"
+  },
+  "schedule_duration": 90,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-programmierplatze"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Programmieren in Minecraft",
+  "slug": "programmieren-in-minecraft",
+  "location": null,
+  "language": "de",
+  "abstract": "Hast du Lust, in Minecraft nicht nur zu bauen, sondern deine eigenen Roboter zu steuern? Im Minecraft-Workshop lernst du, wie du mit programmierbaren Schildkr\u00f6ten im Spiel richtig coole Sachen machst",
+  "description": {
+    "de": null,
+    "en": "Stell dir vor, du k\u00f6nntest in Minecraft nicht nur bauen, sondern auch eigene Roboter programmieren, die f\u00fcr dich graben, bauen oder Monster abwehren. In unserem Workshop zeigen wir dir, wie das geht. Ganz ohne komplizierte Erkl\u00e4rungen lernst du, wie Programmieren funktioniert \u2013 direkt in deiner Minecraft-Welt. Ob Anf\u00e4nger oder schon Profi: Jeder kann mitmachen und spannende Sachen ausprobieren. \r\n\r\nWas erwartet dich?\r\n\t\u2022\tSteuere deine Roboter direkt in Minecraft.\r\n\t\u2022\tLass sie nach wertvollen Erzen graben oder dich vor Monstern besch\u00fctzen. \ud83d\udd79\ufe0f\ud83d\udc22\r\n\t\u2022\tLerne spielerisch die ersten Schritte ins Programmieren \u2013 ganz einfach und mega spannend.\r\n\r\nDie Veranstaltung kann nur mit einem Ticket besucht werden, welches hier geklickt werden kann: [Ticketshop](https://ogy.de/mdvk). Die Tickets sind jeweils am Vortag ab 10 Uhr verf\u00fcgbar."
+  },
+  "schedule_start": {
+    "conference_day": 1,
+    "time": "18:00"
+  },
+  "schedule_duration": 180,
+  "tags": [],
+  "banner_image": "media/event/programmieren-in-minecraft.banner.gif",
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-programmierplatze"
+  }
+}

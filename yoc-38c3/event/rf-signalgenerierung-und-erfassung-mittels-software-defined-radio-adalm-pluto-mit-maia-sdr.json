@@ -1,0 +1,22 @@
+{
+  "name": "RF Signalgenerierung und Erfassung mittels Software Defined Radio (Adalm Pluto mit MAIA SDR)",
+  "slug": "rf-signalgenerierung-und-erfassung-mittels-software-defined-radio-adalm-pluto-mit-maia-sdr",
+  "location": null,
+  "language": "de",
+  "abstract": "Ich stelle kurz das Konzept des sogenannten Software Defined Radio vor. Im Anschuss zeige ich wie der Adalm-Pluto entsprechend modifiziert und als SDR genutzt werden kann.",
+  "description": {
+    "de": null,
+    "en": "Das Konzept des Software Defined Radio's (SDR) ist im Prinzip eine ideale Kombination von Coding und Radio Frequenz Technologie. In diesem Workshop zeige ich ein sehr leicht und sehr flexibel zu nutzendes SDR. Dabei handelt es sich um das sogenannte Adalm-Pluto ( https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html ). Der Hersteller bietet bereits eine offene Firmware an ( https://github.com/analogdevicesinc/plutosdr-fw ) - allerdings laeuft diese nur auf einem Hostsystem mit installierter SDR Client-Software ( https://github.com/f4exb/sdrangel/releases/latest ) - und damit ist die nutzbare RF-Bandbreite aufgrund der USB-2 Schnittstelle auf ca. 2-3 MHz begrenzt. Das Project MAIA SDR ( https://maia-sdr.org/ ) hat fuer den Adalm-Pluto hingegen einen Web-Server auf diesem selber implementiert und bietet direkten Zugriff auf die gesamte Bandbreite von 56 MHz und einer Abstastrate von 61.44 MHz und download der sogenannten RF-IQ Daten im SIGMF Format ( https://sigmf.org/ ). Letzteres ist ein offenes und standardisiertes Format welches nicht nur die Signalrohdaten speichert, sondern auch die zur Weiterverarbeitung und Interpretation wichtigen Meta-Daten."
+  },
+  "schedule_start": {
+    "conference_day": 4,
+    "time": "10:00"
+  },
+  "schedule_duration": 45,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-programmierplatze"
+  }
+}

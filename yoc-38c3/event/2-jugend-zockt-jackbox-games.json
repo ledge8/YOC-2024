@@ -1,0 +1,22 @@
+{
+  "name": "Jugend zockt - Jackbox Games",
+  "slug": "2-jugend-zockt-jackbox-games",
+  "location": null,
+  "language": "de",
+  "abstract": "Die Jackbox Games sind coole Partyspiele, die man \u00fcber eine Webseite mit dem eigenen Handy mitspielen kann.",
+  "description": {
+    "de": null,
+    "en": "Egal ob PowerPoint Karaoke, T-Shirt-Kampf oder Murder Trivia - die Jackbox Games umfassen viele verschiedene Arten von coolen digitalen Partyspielen. Um mitzuspielen braucht ihr nur ein internetf\u00e4higes Endger\u00e4t und Spa\u00df! Wenn ihr nicht selbst mitspielen wollt, dann kommt gerne vorbei und tretet dem virtuellen Publikum bei, um in bestimmten Spielen Extrapunkte vergeben zu k\u00f6nnen!"
+  },
+  "schedule_start": {
+    "conference_day": 3,
+    "time": "17:00"
+  },
+  "schedule_duration": 60,
+  "tags": [],
+  "banner_image": "media/event/2-jugend-zockt-jackbox-games.banner.png",
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "youth-operation-centre-forum-gf-1"
+  }
+}

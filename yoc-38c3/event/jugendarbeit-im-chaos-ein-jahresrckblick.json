@@ -1,0 +1,22 @@
+{
+  "name": "Jugendarbeit im Chaos - Ein Jahresr\u00fcckblick",
+  "slug": "jugendarbeit-im-chaos-ein-jahresrckblick",
+  "location": null,
+  "language": "de",
+  "abstract": "Chaos macht Schule, chaos.jetzt und Jugend hackt schauen auf ein Jahr Jugendarbeit zur\u00fcck. Was waren Projekte, was waren Meilensteine?  \r\n\r\nAu\u00dferdem: Zahlen und Fakten \u00fcber das YOC dieses Jahr.",
+  "description": {
+    "de": null,
+    "en": "tba"
+  },
+  "schedule_start": {
+    "conference_day": 4,
+    "time": "15:30"
+  },
+  "schedule_duration": 45,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "youth-operation-centre-forum-gf-1"
+  }
+}

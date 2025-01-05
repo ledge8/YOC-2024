@@ -1,0 +1,24 @@
+{
+  "name": "Angebote zum Junghacker:innentag rund um Mathematik (Erwachsene auch willkommen)",
+  "slug": "angebote-zum-junghacker-innentag-rund-um-mathematik-erwachsene-auch-willkommen",
+  "location": null,
+  "language": "de",
+  "abstract": "Spiel und Spa\u00df mit unendlich gro\u00dfen Zahlen und unendlichen Spielen \u2022 Zauberw\u00fcrfelworkshop \u2022 Cosmic Call, eine Botschaft an Au\u00dferirdische \u2022 Spiel und Spa\u00df mit der vierten Dimension \u2022 Beweise ohne Worte",
+  "description": {
+    "de": "",
+    "en": "Zu allen Workshops kann man in der Zeit von 11:00 Uhr bis 14:00 Uhr kommen und gehen, wann man m\u00f6chte! Eine Anmeldung ist nicht erforderlich. [Zur Beschreibung, wo wir sind.](https://events.ccc.de/congress/2024/hub/en/event/angebote-zum-junghackerinnentag-rund-um-mathematik/) Bei allen Fragen direkt anrufen: +4917695110311.\r\n\r\n**Unendlich gro\u00dfe Zahlen.** In der Mathematik geht es nach 1, 2 und 3, nach der Million und der Fantastilliarde erst richtig los: Danach kommen die unendlich gro\u00dfen Zahlen. Los gehen die mit \u201e\u221e\u201c, der ersten unendlich gro\u00dfen Zahl, aber dann geht es noch lange weiter. Mit diesen Zahlen kann man wunderbar Spiele spielen. Vielleicht kennt der eine oder andere das Streichholzspiel, bei dem zwei Spieler abwechselnd immer bis zu drei Streichh\u00f6lzer wegnehmen k\u00f6nnen und derjenige gewinnt, der das letzte Streichholz an sich nimmt. Im Workshop werden wir lernen, wie man dieses Spiel mit unendlich vielen Streichh\u00f6lzern spielt, und wie der Trick aussieht, um immer zu gewinnen.\r\n\r\n**Cosmic Call.** Vor etwa 15 Jahren schickte die Menschheit eine Radiobotschaft an ausgew\u00e4hlte Sterne, in der Hoffnung, dass die Nachricht Au\u00dferirdische erreicht, diese die Nachricht verstehen und uns antworten. Die Nachricht ist nicht auf Deutsch oder Englisch verfasst, sondern bedient sich einer eigens entwickelten Symbolsprache. Schaffen wenigstens wir Menschen, die Botschaft zu entziffern? Das wollen wir in dem Workshop an uns selbst testen und herausfinden!\r\n\r\n**Zauberw\u00fcrfel.** Wie l\u00f6st man den Zauberw\u00fcrfel (Rubik's Cube)? Das \u00fcben wir in diesem Workshop. Wer einen eigenen Zauberw\u00fcrfel hat, kann ihn gerne mitbringen; f\u00fcr alle anderen haben wir W\u00fcrfel zum Verleihen. Keinerlei Vorkenntnisse n\u00f6tig.\r\n\r\n**Vierte Dimension.** In unserer Welt k\u00f6nnen wir uns nach links und rechts, nach hinten und vorne sowie nach unten und oben bewegen. Weitere Richtungen gibt es nicht. Das muss aber nicht so sein! In der Mathematik ist auch eine weitere Dimension vorstellbar. In diesem Workshop lernen wir diese vierte Dimension spielerisch und anschaulich kennen. Anhand eines interaktiven vierdimensionalen Labyrinths erkunden wir in diesem Workshop spielerisch die vierte Dimension. In der vierten Dimension gibt es neue wundersame Formen zu bestaunen, gew\u00f6hnliche dreidimensionale Gef\u00e4ngnisse w\u00e4ren nicht mehr ausbruchssicher und Schn\u00fcrsenkel w\u00fcrden sich st\u00e4ndig von selbst entknoten. Wer schon etwas \u00e4lter ist (ab etwa achte Klasse) und Englisch ganz gut versteht, kann statt zu diesem Workshop auch zum 60-min\u00fctigen Abendvortrag zum Thema kommen.\r\n\r\n**Beweise ohne Worte.** In der Schule besteht Mathematik zu einem gro\u00dfen Teil aus Rechnungen. Das ist aber nicht das, was Mathematik wirklich ausmacht! Mathematik ist die Kunst, das Verborgene auf das Offensichtliche zur\u00fcckzuf\u00fchren, und dazu geh\u00f6ren ergreifende emotionale Aha-Momente beim Verstehen von Zusammenh\u00e4ngen. In diesem Workshop behandeln wir grafische Beweise."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "10:00"
+  },
+  "schedule_duration": 210,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-tischinsel"
+  }
+}

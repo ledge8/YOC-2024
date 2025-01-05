@@ -1,0 +1,24 @@
+{
+  "name": "Lass mal Apps hacken",
+  "slug": "lass-mal-apps-hacken",
+  "location": null,
+  "language": "de",
+  "abstract": "Wie kann man eigentlich eine App hacken und hinter die Kulissen der App schauen? Und was kann man damit anstellen? Eine ganze Menge!",
+  "description": {
+    "de": "",
+    "en": "Eigentlich gibt es ja mittlerweile f\u00fcr alles eine (Handy-) App. In diesem Vortrag zeige ich wie einfach man mal gucken kann was Apps hinter den Kulissen ins Internet schicken und was man damit anstellen kann."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "18:00"
+  },
+  "schedule_duration": 45,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "youth-operation-centre-forum-gf-1"
+  }
+}

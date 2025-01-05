@@ -1,0 +1,22 @@
+{
+  "name": "Einf\u00fchrung in p\u00e4dagogische Basics f\u00fcr Engel und Mentor*innen (Tag 3)",
+  "slug": "einfhrung-in-pdagogische-basics-fr-engel-und-mentor-innen-tag-3",
+  "location": null,
+  "language": "de",
+  "abstract": "siehe auch Meeting im Feensystem https://38c3-feen.coderdojo.red/news",
+  "description": {
+    "de": null,
+    "en": "-"
+  },
+  "schedule_start": {
+    "conference_day": 3,
+    "time": "11:00"
+  },
+  "schedule_duration": 30,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": null
+  }
+}

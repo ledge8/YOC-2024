@@ -1,0 +1,22 @@
+{
+  "name": "Bau deinen eigenen GameController!",
+  "slug": "bau-deinen-eigenen-gamecontroller",
+  "location": null,
+  "language": "de",
+  "abstract": "Bau deinen eigenen GameController - aus einem Rasberry Pico, Schaltern, Sensoren etc. baust du dir einen eigenen GameController :)",
+  "description": {
+    "de": "",
+    "en": "Mit einem Raspberry-Pico als Gehirn baust du dir einen eigenen GameController!\r\n\r\nDie Veranstaltung kann nur mit einem Ticket besucht werden, welches hier geklickt werden kann: [Ticketshop](https://ogy.de/mdvk). Die Tickets sind jeweils am Vortag ab 10 Uhr verf\u00fcgbar."
+  },
+  "schedule_start": {
+    "conference_day": 1,
+    "time": "11:00"
+  },
+  "schedule_duration": 180,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-bastelhack-und-makespace"
+  }
+}

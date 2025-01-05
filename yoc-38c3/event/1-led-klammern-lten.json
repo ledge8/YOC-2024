@@ -1,0 +1,24 @@
+{
+  "name": "LED-Klammern l\u00f6ten",
+  "slug": "1-led-klammern-lten",
+  "location": null,
+  "language": "de",
+  "abstract": "Es werden blinkende LED-Klammern gel\u00f6tet!",
+  "description": {
+    "de": "",
+    "en": "Der perfekte Workshop f\u00fcr L\u00f6tanf\u00e4nger:innen! Wir zeigen dir die ersten Schritte beim L\u00f6ten. Wir bringen Dich zu Deinem ersten L\u00f6terlebniss und Du eine W\u00e4scheklammer mit LEDs zum Leuchten!\r\n\r\nDer Workshop kann nur mit einem Ticket besucht werden, welches hier geklickt werden kann: https://pretix.eu/junghackerinnentag/tickets/\r\nDie Tickets werden nicht vor der Er\u00f6ffnungsveranstaltung am Junghackerinnentag um 10 Uhr verf\u00fcgbar sein."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "10:30"
+  },
+  "schedule_duration": 30,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-lotstationen-station-1"
+  }
+}

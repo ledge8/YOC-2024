@@ -1,0 +1,22 @@
+{
+  "name": "Regenbogen-Ring",
+  "slug": "regenbogen-ring",
+  "location": null,
+  "language": "de",
+  "abstract": "Im Workshop entdecken Jugendliche kreativ und praxisnah die Welt der Elektronik: Sie lernen L\u00f6ten, Programmieren und Gestalten mit einem NeoPixel LED-Ring.",
+  "description": {
+    "de": null,
+    "en": "Entdecke die Magie der NeoPixel LEDs und lerne, wie du tolle Lichteffekte selbst programmierst! \ud83d\udea5\r\n\r\nWir zeigen dir, wie man einen Neopixel LED-Ring zum Strahlen bringt. Ziel ist es, eine kleine Uhr damit selbst zu bauen. Dabei sind deiner Fantasie jedoch keine Grenzen gesetzt und du kannst ebenso eine Temperaturanzeige, ein sch\u00f6ne Zimmerdekoration oder was immer dir einf\u00e4llt basteln.\r\n\r\nGanz gleich, ob du schon mal mit Elektronik und Programmierung zu tun hattest oder nicht, wirst du mit einem funktionierendem Ergebnis nach Hause gehen. Also komm vorbei und lass uns gemeinsam die Welt ein bisschen bunter machen! \ud83c\udf08\r\n\r\nDie Veranstaltung kann nur mit einem Ticket besucht werden, welches hier geklickt werden kann: [Ticketshop](https://ogy.de/mdvk). Die Tickets sind jeweils am Vortag ab 10 Uhr verf\u00fcgbar."
+  },
+  "schedule_start": {
+    "conference_day": 1,
+    "time": "13:00"
+  },
+  "schedule_duration": 180,
+  "tags": [],
+  "banner_image": "media/event/regenbogen-ring.banner.jpg",
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-lotstationen-station-1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Typografie-Schild/ Anh\u00e4nger",
+  "slug": "0-typografie-schild-anhnger",
+  "location": null,
+  "language": "de",
+  "abstract": "Mit Logo-Skizzen und Vektorgrafik gestalten wir Typografie f\u00fcr einen (Schl\u00fcssel-)Anh\u00e4nger. Die Logoschrift wird mit dem Lasercutter in Holz oder Plexiglas eingraviert und der Anh\u00e4nger ausgeschnitten.",
+  "description": {
+    "de": "",
+    "en": "Mit einem Vektorgrafik-Programm (vgl. Inkscape.org) k\u00f6nnen wir Schriftbuchstaben bzw. Logos gestalten. (vgl. Abb.: Dank an freeride-guide.com). Wir skizzieren mit Stiften auf Papier oder pausen von Screens Schriftz\u00fcge von Portalen zur Schriftgestaltung (vgl. myfonts.com) in passender Vergr\u00f6\u00dferung ab. Schriftbuchstaben k\u00f6nnen im Stil vielf\u00e4ltig variieren, d.h. im Spannungsfeld zwischen pr\u00e4gnanter Lesbarkeit und gestalterischen Freiheiten stehen. Wir experimentieren mit Schrift in Linie und Fl\u00e4che als Logos im Sinne einer Beschilderung oder auch kreativ als Bildelement wie bei Graffiti-Schrift, die man teils nur eingeschr\u00e4nkt entziffern kann. Mit Vektorgrafik-Haarlinien schneiden wir dann mit dem Lasercutter den Anh\u00e4nger aus - bzw. wir Rastern das Motiv gestalterisch vorher als Gravur in der Binnenfl\u00e4che - es ist Vieles m\u00f6glich (vgl. makerlab-murnau.de/labs/laserlab.html). Leistung und Geschwindigkeit des Lasercutters werden je nach Material angepasst f\u00fcr pr\u00e4zisen Lasercut in d\u00fcnnes Holz oder Plexiglas f\u00fcr (d)einen (Schl\u00fcssel-)Anh\u00e4nger. Abschlie\u00dfend kann ein Finish durch einen Print mit Siebdruck und kleinem Sieb (Farben schwarz oder weiss) auf das Relief-Objekt erfolgen, um die erhabenen Fl\u00e4chen zu f\u00e4rben.\r\n\r\nDie Veranstaltung kann nur mit einem Ticket besucht werden, welches hier geklickt werden kann: [Ticketshop](https://pretix.eu/junghackerinnentag/tickets/). Die Tickets werden erst zur Er\u00f6ffnungsveranstaltung am Junghackerinnentag ab 10 Uhr verf\u00fcgbar sein."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "17:00"
+  },
+  "schedule_duration": 120,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": "media/event/0-typografie-schild-anhnger.banner.png",
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-bastelhack-und-makespace"
+  }
+}

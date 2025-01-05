@@ -1,0 +1,22 @@
+{
+  "name": "Wie aus Einsen und Nullen ein Computer wird.",
+  "slug": "2-wie-aus-einsen-und-nullen-ein-computer-wird",
+  "location": null,
+  "language": "de",
+  "abstract": "Eine CPU ist das Herz eines Computers. Aber wie funktioniert so ein Ding und kann man so was selber bauen?",
+  "description": {
+    "de": null,
+    "en": "Wenn du dich schon immer gefragt hast wie eigentlich so ein Computer funktioniert kriegst du hier einen erste Idee und vielleicht Lust dich weiter damit zu besch\u00e4ftigen. Wir schauen uns eine selbstgebaute CPU an und kriegen einen \u00dcberblick, welche Komponenten da drin sind und was die so grob tun. \r\nAm Simulator schauen wir uns an wie die Einsen und Nullen durch die Leitungen flitzen und am anderen Ende was passiert."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "15:00"
+  },
+  "schedule_duration": 60,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-makespace"
+  }
+}

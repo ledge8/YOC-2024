@@ -1,0 +1,24 @@
+{
+  "name": "Einf\u00fchrung in p\u00e4dagogische Basics f\u00fcr Engel und Mentor*innen (Tag 2)",
+  "slug": "1-einfhrung-in-pdagogische-basics-fr-engel-und-mentor-innen-tag-2",
+  "location": null,
+  "language": "de",
+  "abstract": "Einf\u00fchrung in p\u00e4dagogische Basics f\u00fcr Engel und Mentor*innen",
+  "description": {
+    "de": "",
+    "en": "."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "13:00"
+  },
+  "schedule_duration": 30,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "youth-operation-centre-forum-gf-1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "LED-Armb\u00e4ndchen l\u00f6ten",
+  "slug": "1-led-armbndchen-lten",
+  "location": null,
+  "language": "de",
+  "abstract": "Wir l\u00f6ten gemeinsam kleine LED-Armb\u00e4ndchen, welche auf NFC-Signale von Handys o.\u00e4. reagieren",
+  "description": {
+    "de": "",
+    "en": "Kabellose Energie\u00fcbertragung ist ohne Zweifel eine sehr coole Technologie. Und sie ist schon mit sehr einfachen Mitteln wie einem bisschen Draht, einem Kondensator und einer LED erfahrbar! Wir l\u00f6ten zusammen Armb\u00e4nder, die auf NFC-Signale von Handys reagieren und eine LED aufleuchten lassen. F\u00fcr Material ist gesorgt. Und wer tieferes technisches Interesse mitbringt, kann etwas \u00fcber die Funktionsweise einer L/C-Schaltung, Elektromagnetismus und Resonanz lernen. Wer es hingegen einfach nur blinken lassen will, kann sich ein spa\u00dfiges kleines Gadget mitnehmen."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "13:00"
+  },
+  "schedule_duration": 60,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": null
+  }
+}

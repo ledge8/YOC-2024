@@ -1,0 +1,24 @@
+{
+  "name": "Fairydust-T\u00fcr\u00f6ffner-Tag",
+  "slug": "fairydust-trffner-tag",
+  "location": null,
+  "language": "de",
+  "abstract": "Wie funktionieren Internet, Video und Saaltechnik f\u00fcr 15000 Leute? Wie baut man ein eigenes Handynetz auf? Wer hilft bei Unf\u00e4llen, und wer bringt meine Post nach Mexiko?",
+  "description": {
+    "de": "",
+    "en": "## T\u00fcren auf beim Chaos Communication Congress\r\n\r\nBeim [38. Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/) in\r\nHamburg \u00f6ffnen dieses Jahr zum [Junghacker\\*innen-Tag](https://events.ccc.de/congress/2024/infos/junghackerinnentag.html)\r\ndie Chaos-Teams hinter den Kulissen die T\u00fcren f\u00fcr junge Besucher\\*innen. Dort\r\nkann man live erleben, wie ein so gro\u00dfes Hack-Event funktioniert. Denn neben\r\nL\u00f6ten, Coden und bunter Blinky-Atmosph\u00e4re geh\u00f6rt noch eine Menge mehr dazu!\r\n\r\nAngelehnt ist die Idee an den \"Maus-T\u00fcr\u00f6ffner-Tag\", der jedes Jahr am 3. Oktober\r\nstattfindet und bei dem Kinder an vielen Orten hinter die Kulissen schauen k\u00f6nnen.\r\nDoch beim Congress l\u00e4dt nicht die Maus ein, sondern Fairydust \u2013 das knubbelige\r\nRaketen-Maskottchen der Chaos-Veranstaltungen.\r\n\r\n### Programm und Tour\r\n\r\nBeim ersten Fairydust-T\u00fcr\u00f6ffner-Tag machen fast alle Teams und Chaos-Organisationen,\r\ndie am Congress mitwirken, mit. Und das gibt es zu sehen:\r\n\r\n* Mit dem [Video Operation Center](https://c3voc.de/) kannst du ausprobieren, wie\r\n  die Licht- und Tontechnik in den S\u00e4len des Congress Center Hamburg funktioniert\r\n* Beim [Phone Operation Center (Eventphone)](https://eventphone.de/) trittst du\r\n  im W\u00e4hlscheiben-Wettbewerb gegen andere an und lernst eine digitale\r\n  Telefon-Vermittlungsstelle kennen\r\n* Das Network Operation Center sorgt f\u00fcr schnellen Internetzugang und das Datennetz vor Ort\r\n* Etwas weniger technisch wird es beim [Logistics Operation Center](https://c3loc.de/)\r\n  und beim Bottle Operation Center\r\n* Beim [Chaos Emergency Response Team](https://cert.ccc.de/) geht es um Erste Hilfe und um den Funkverkehr im Notfall \u2013 was passiert, wenn man auf dem Congress die 112 anruft?\r\n* Du magst Postkarten, Stempeln und Sortieren? Die [Chaospost](https://chaospost.de/) bringt deine Post zwar nicht nach Mexiko, aber zu jedem erdenklichen Ort auf dem Congress\r\n* Was es mit Fidget- und Stimming-Toys auf sich hat und wie sie auch dir vielleicht\r\n  in anstregenden Situationen helfen k\u00f6nnen, kannst du bei der\r\n  [Autismusbetreuung](https://help.ccc.de/c3auti/index.html) erfahren\r\n\r\n*(Das exakte Programm kann sich im Laufe des Dezembers noch ein wenig \u00e4ndern. Vor Ort\r\nkann es sein, dass einzelne Punkte ausfallen m\u00fcssen, falls eines der Teams \u00fcberm\u00e4\u00dfig\r\nim Stress ist.)*\r\n\r\nDie Tour beginnt **um 11:00 Uhr** (am Samstag, dem 28. Dezember)\r\nan der Assembly der Teckids-Gemeinschaft und dauert etwa 1\u00bd Stunden.\r\n\r\n## Alle Infos und Anmeldung\r\n\r\n**Aus (verischerungs)rechtlichen und organisatorischen Gr\u00fcnden bitten wir um Voranmeldung, nach m\u00f6glichkeit online oder vorab an der Teckids-Assembly!**\r\n\r\nAlle Infos zur Anmeldung gibt es [im Teckids-Blog](https://teckids.org/blog/2024/12/fairydust-tueroeffnertag/)"
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "10:00"
+  },
+  "schedule_duration": 90,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": "media/event/fairydust-trffner-tag.banner.png",
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "youth-operation-centre-forum-gf-1"
+  }
+}

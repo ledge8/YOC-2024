@@ -1,0 +1,24 @@
+{
+  "name": "Fakes, Fakten und die Folgen - Wie K\u00fcnstliche Intelligenz unsere Realit\u00e4t verzerren kann",
+  "slug": "fakes-fakten-und-die-folgen-wie-knstliche-intelligenz-unsere-realitt-verzerren-kann",
+  "location": null,
+  "language": "en",
+  "abstract": "Dieser Vortrag erkl\u00e4rt die Funktionsweise KI-gest\u00fctzter Desinformation und beleuchtet die Folgen f\u00fcr Gesellschaft, und unsere Demokratie. technischen \u00dcberblick und zahlreichen anschaulichen Beispiele.",
+  "description": {
+    "de": "",
+    "en": "Fake News sind wahrhaftig kein neues Ph\u00e4nomen, doch K\u00fcnstliche Intelligenz erlaubt bisher ungeahnte M\u00f6glichkeiten gro\u00dfangelegter Desinformation. Von t\u00e4uschend echten Fotomontagen \u00fcber computergenerierte Stimmimitationen bis hin zu gef\u00e4lschten Videoaufnahmen - die F\u00e4higkeit von K.I., Fakes zu erzeugen, scheint grenzenlos. Doch w\u00e4hrend diese Technologien unsere Welt ver\u00e4ndern, bleiben viele Fragen offen. Was bedeutet es, wenn wir nicht mehr sicher sein k\u00f6nnen, ob das, was wir sehen und h\u00f6ren, echt ist? Wie beeinflussen K.I.-generierte Fakes unsere Entscheidungen und unser Vertrauen in Informationen? In diesem Vortrag werfen wir einen Blick auf die gesellschaftlichen Auswirkungen der K.I.-Revolution und diskutieren, wie wir mit den damit verbundenen Herausforderungen umgehen k\u00f6nnen."
+  },
+  "schedule_start": {
+    "conference_day": 1,
+    "time": "17:00"
+  },
+  "schedule_duration": 60,
+  "tags": [
+    "youth"
+  ],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "youth-operation-centre-forum-gf-1"
+  }
+}

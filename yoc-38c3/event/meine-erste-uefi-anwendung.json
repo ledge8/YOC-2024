@@ -1,0 +1,22 @@
+{
+  "name": "meine erste UEFI-Anwendung",
+  "slug": "meine-erste-uefi-anwendung",
+  "location": null,
+  "language": "de",
+  "abstract": "Alle modernen Desktop-Systeme (bis auf Apple Silicon) haben UEFI-kompatible Firmware. Aber was ist das? Wie funktioniert das? Und wie schreibe ich da eine Anwendung f\u00fcr?",
+  "description": {
+    "de": null,
+    "en": "Wenn ihr nicht nur zugucken, sondern auch mitmachen wollt, braucht ihr:\r\n * einen Laptop\r\n * einen Texteditor, mit dem ihr zurecht kommt (idealerweise mit Unterst\u00fctzung f\u00fcr [Rust Analyzer](https://rust-analyzer.github.io/))\r\n * einen [Rust-Compiler](https://rustup.rs/)\r\n * grundlegende Programmierkenntnisse\r\n * QEMU\r\n\r\nDie Veranstaltung kann nur mit einem Ticket besucht werden, welches hier geklickt werden kann: [Ticketshop](https://ogy.de/mdvk). Die Tickets sind jeweils am Vortag ab 10 Uhr verf\u00fcgbar.\r\n\r\nweitere Dokumentation:\r\n* [uefi-rs](https://docs.rs/uefi/0.31)\r\n* [UEFI Spec](https://uefi.org/specs/UEFI/2.11/)\r\n\r\nWenn ihr unbedingt wollt, k\u00f6nnt ihr auch C benutzen, aber damit kann ich weit weniger helfen."
+  },
+  "schedule_start": {
+    "conference_day": 1,
+    "time": "14:10"
+  },
+  "schedule_duration": 45,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-programmierplatze"
+  }
+}

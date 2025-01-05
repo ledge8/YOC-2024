@@ -1,0 +1,22 @@
+{
+  "name": "Nerds spielen Spiele - der Widerstand ruft!",
+  "slug": "nerds-spielen-spiele-der-widerstand-ruft",
+  "location": null,
+  "language": "de",
+  "abstract": "Wir setzen fort und hei\u00dfen Neueinsteigende willkommen - was machen Nerds, wenn sie nicht programmieren? Sie spielen Spiele mit Nerdcharakter.",
+  "description": {
+    "de": null,
+    "en": "Wir setzen fort und hei\u00dfen Neueinsteigende willkommen - was machen Nerds, wenn sie nicht programmieren? Sie spielen Spiele mit Nerdcharakter. Wir werden den Schwerpunkt heute im Widerstand setzen, um endlich gegen die feindlichen Agenten zu gewinnen. Roboralley und die Turing-Maschine stehen nat\u00fcrlich auch zur Verf\u00fcgung."
+  },
+  "schedule_start": {
+    "conference_day": 3,
+    "time": "10:15"
+  },
+  "schedule_duration": 90,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-tischinsel"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Virtuelle Eurorack Synthesizer mit VCV Rack",
+  "slug": "0-virtuelle-eurorack-synthesizer-mit-vcv-rack",
+  "location": null,
+  "language": "de",
+  "abstract": "Mit VCV Rack 2, einer virtuellen Eurorack Synthesizer Plattform, Musik zu machen. Sch\u00f6ner w\u00e4re es nat\u00fcrlich, Hardware zu nutzen und es wird auch welche geben, aber einfacher ist es doch am Laptop.",
+  "description": {
+    "de": "",
+    "en": "VCV Rack 2 ist eine virtuelle Eurorack Synthesizer Plattform, mit der elektronische Musik oder Kl\u00e4nge erzeugt werden k\u00f6nnen. In der kostenfreien Version gibt es viele Module, die es auch in Hardware gibt, ohne das die oft teuren Module gekauft werden m\u00fcssen. \r\n\r\nDer Workshop ist eine Einf\u00fchrung in die Welt der modularen Synthesizer mit VCV Rack 2. Welche Module brauche ich, um Kl\u00e4nge zu erzeugen, und wie kann ich dann damit Klangwelten oder Musik entstehen lassen? Musikalische Vorwissen ist nicht unbedingt n\u00f6tig, nur die Lust am Experimentieren.\r\n\r\nBitte wenn m\u00f6glich, einen eigenen Laptop und eigene Kopfh\u00f6rer mitbringen. Der Workshop kann nur mit einem Ticket besucht werden, welches hier geklickt werden kann: https://pretix.eu/junghackerinnentag/tickets/\r\nDie Tickets werden nicht vor der Er\u00f6ffnungsveranstaltung am Junghackerinnentag um 10 Uhr verf\u00fcgbar sein."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "17:30"
+  },
+  "schedule_duration": 120,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": "media/event/0-virtuelle-eurorack-synthesizer-mit-vcv-rack.banner.jpg",
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-programmierplatze"
+  }
+}

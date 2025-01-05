@@ -1,0 +1,22 @@
+{
+  "name": "Einf\u00fchrung in die Stickmaschine f\u00fcr Jugendliche",
+  "slug": "einfhrung-in-die-stickmaschine-fr-jugendliche",
+  "location": null,
+  "language": "de",
+  "abstract": "-",
+  "description": {
+    "de": null,
+    "en": "-"
+  },
+  "schedule_start": {
+    "conference_day": 1,
+    "time": "15:00"
+  },
+  "schedule_duration": 60,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-makespace"
+  }
+}

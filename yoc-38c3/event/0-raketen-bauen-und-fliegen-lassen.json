@@ -1,0 +1,24 @@
+{
+  "name": "Raketen bauen und fliegen lassen",
+  "slug": "0-raketen-bauen-und-fliegen-lassen",
+  "location": null,
+  "language": "de",
+  "abstract": "Wir basteln gemeinsam Raketen und lassen diese auch richtig hoch fliegen",
+  "description": {
+    "de": "",
+    "en": "Drinnen basteln wir coole Raketen und draussen unter freiem Himmel schauen wir wie hoch die fliegen.\r\n\r\nDie Veranstaltung kann nur mit einem Ticket besucht werden, welches hier geklickt werden kann: [Ticketshop](https://pretix.eu/junghackerinnentag/tickets/). Die Tickets werden erst zur Er\u00f6ffnungsveranstaltung am Junghackerinnentag ab 10 Uhr verf\u00fcgbar sein."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "14:00"
+  },
+  "schedule_duration": 90,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-bastelhack-und-makespace"
+  }
+}

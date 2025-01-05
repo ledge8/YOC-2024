@@ -1,0 +1,22 @@
+{
+  "name": "Postkarten und/oder Kunst selber drucken",
+  "slug": "postkarten-und-oder-kunst-selber-drucken",
+  "location": null,
+  "language": "de",
+  "abstract": "Gestaltung von Postkarten und Kunstwerken mit DIY-Pressen von Provisional Press, Open Press Project und Blockface-Stempel",
+  "description": {
+    "de": null,
+    "en": "Wir werden Postkarten und Kunstwerke mit den DIY-Druckpressen von Provisional Press und Open Press Project drucken, wobei wir Linoldruck und 3D-Druck verwenden.\r\n\r\nF\u00fcr unsere kleinsten Besucher bieten wir Alternativen zum Linoldruck an.\r\n\r\nJeder kann au\u00dferdem die Blockface-Stempel ausprobieren, mit denen sich typografische Poster und Karten gestalten lassen, und die Freude am Drucken entdecken."
+  },
+  "schedule_start": {
+    "conference_day": 3,
+    "time": "13:00"
+  },
+  "schedule_duration": 180,
+  "tags": [],
+  "banner_image": "media/event/postkarten-und-oder-kunst-selber-drucken.banner.jpg",
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-bastelhack-und-makespace"
+  }
+}

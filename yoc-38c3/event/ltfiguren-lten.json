@@ -1,0 +1,22 @@
+{
+  "name": "L\u00f6tfiguren l\u00f6ten",
+  "slug": "ltfiguren-lten",
+  "location": null,
+  "language": "de",
+  "abstract": "Kann man mit dem L\u00f6tkolben Kunst schaffen! Ja, wir zeigen Dir wie :)",
+  "description": {
+    "de": null,
+    "en": "Wir bauen aus Widerst\u00e4nden, Kondensatoren und LEDs kleine Figuren - von L\u00f6tmenschen, \u00fcber Spinnen zu Skorpionen. Komm vorbei und werde kreativ!\r\n\r\nDie Veranstaltung kann nur mit einem Ticket besucht werden, welches hier geklickt werden kann: [Ticketshop](https://pretix.eu/junghackerinnentag/tickets/). Die Tickets werden erst zur Er\u00f6ffnungsveranstaltung am Junghackerinnentag ab 10 Uhr verf\u00fcgbar sein."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "11:00"
+  },
+  "schedule_duration": 60,
+  "tags": [],
+  "banner_image": "media/event/ltfiguren-lten.banner.jpg",
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-lotstationen-station-2"
+  }
+}

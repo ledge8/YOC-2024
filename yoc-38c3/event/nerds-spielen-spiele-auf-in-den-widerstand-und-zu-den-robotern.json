@@ -1,0 +1,22 @@
+{
+  "name": "Nerds spielen Spiele - Auf in den Widerstand und zu den Robotern!",
+  "slug": "nerds-spielen-spiele-auf-in-den-widerstand-und-zu-den-robotern",
+  "location": null,
+  "language": "de",
+  "abstract": "J\u00fcngere Nerds spielen Spiele - vor allem Widerstand (ab 10 Jahren), Roboralley (ab 8 Jahren) und Turtle (ab 5 Jahren).",
+  "description": {
+    "de": null,
+    "en": "Was machen die jungen Nerds wenn sie keine Bits verschieben? Dann spielen sie Spiele. Wir treffen uns im Youth Organization Center (YOC) in Saal A um 11 Uhr und spielen Spiele auf die wir Lust haben. Das wird vor allem Widerstand (ab 10 Jahren), Roboralley (ab 8 Jahren) und Turtle (ab 5 Jahren) sein. Aber es stehen auch andere zur Verf\u00fcgung oder Du bringst Dein eigenes mit und stellst es vor.\r\n\r\nWir starten immer wieder neue Spiele, so dass Du auch sp\u00e4ter dazu kommen kannst."
+  },
+  "schedule_start": {
+    "conference_day": 4,
+    "time": "10:00"
+  },
+  "schedule_duration": 120,
+  "tags": [],
+  "banner_image": "media/event/nerds-spielen-spiele-auf-in-den-widerstand-und-zu-den-robotern.banner.jpg",
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-tischinsel"
+  }
+}

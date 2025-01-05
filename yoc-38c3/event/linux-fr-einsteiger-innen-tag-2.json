@@ -1,0 +1,24 @@
+{
+  "name": "Linux f\u00fcr Einsteiger:innen (Tag 2)",
+  "slug": "linux-fr-einsteiger-innen-tag-2",
+  "location": null,
+  "language": "de",
+  "abstract": "Wir begeben uns auf eine Entdeckungsreise durch Linux - von der Vielfalt eines Betriebssystems.\r\n\r\nWas ist (F)OSS? Wie sieht so ein Linux aus? Was kann man damit machen? Und kann man damit auch spielen?",
+  "description": {
+    "de": "",
+    "en": "Wir wollen Linux f\u00fcr Schule und Freizeit zeigen, die Vorteile von freier OpenSource Software erkl\u00e4ren,\r\ndie Vielfalt der verf\u00fcgbaren Programme und Tools sowie mit dem Vorurteil aufr\u00e4umen, dass man zum Spielen dann ja doch immer Windows ben\u00f6tigt.\r\n\r\nDer Workshop soll an drei Tagen am Beispiel des Schulsticks durch die Vielfalt des Systems f\u00fchren.\r\n\r\n**Tag 1: Einstieg -- 27.12.24 16-18 Uhr**\r\n\r\nWas ist Linux? Was freie Software? Was sind die Vorteile? Wie sieht so ein Linux aus? Welche Flavours gibt es? (Was) kann man damit alles machen? \r\nUnd dann nat\u00fcrlich: Anwendungen wie z.B. Office, Grafikprogramme **selber ausprobieren**.\r\n\r\n**Tag 2: Abenteuer Kommandozeile -- 28.12.24 16-18 Uhr**\r\n\r\nHeute geht es um die Kommandozeile -- das mysteri\u00f6se, h\u00e4ufig schwarze Fenster mit heller Schrift. Warum benutzen wir Text-Kommandos und was kann man damit Tolles machen? Und wie man mit etwas Kommandozeilen-Magie Andere beeindrucken kann.\r\nVon den absoluten Basics bis zu komplexen Einzeilern -- nat\u00fcrlich wieder zum selbst erleben und mitmachen!\r\n\r\n**Tag 3: Spielen mit Linux -- 29.12.24 16-18 Uhr**\r\n\r\nLange hie\u00df es, zum Spielen br\u00e4uchte man eine Konsole oder einen Windows-PC. Heute wollen wir zeigen, dass das schon l\u00e4nger nicht mehr so ist.\r\nVon einfachen Konsolen-Spielen bis zu komplexen Titeln auf Steam!\r\n\r\n\r\n**Zielgruppe** \r\n\r\nDieser komplette Workshop ist f\u00fcr absolute Neulinge (Computer \u00fcberhaupt und/oder Linux).\r\nAber auch, wer schon Windows einsetzt und mal \u00fcber den Tellerrand schauen will, vielleicht sogar schon einmal \u00fcber einen Wechsel nachgedacht hat, sich aber (noch) nicht traut, ist herzlich willkommen!\r\n\r\n**Voraussetzungen**\r\n\r\nInteresse und Neugier.\r\n\r\nDie Veranstaltung kann nur mit einem Ticket besucht werden, welches hier geklickt werden kann: [Ticketshop](https://ogy.de/mdvk). Da der Workshop aufeinander aufbaut, gilt das Ticket von Tag 1 auch f\u00fcr die beiden Folgetage."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "15:00"
+  },
+  "schedule_duration": 120,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-programmierplatze"
+  }
+}

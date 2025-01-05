@@ -1,0 +1,24 @@
+{
+  "name": "Rockets l\u00f6ten",
+  "slug": "8-rockets-lten",
+  "location": null,
+  "language": "de",
+  "abstract": "Wir l\u00f6ten mit Dir die Rocket - die Rakete des CCC zum Programmieren!",
+  "description": {
+    "de": "",
+    "en": "Die Rakete des Chaos Computer Clubs gibt es als L\u00f6tset - die Rocket! Sie verf\u00fcgt \u00fcber ein Display und ist programmierbar.\r\n\r\nDer Workshop kann nur mit einem Ticket besucht werden, welches hier geklickt werden kann: https://pretix.eu/junghackerinnentag/tickets/\r\nDie Tickets werden nicht vor der Er\u00f6ffnungsveranstaltung am Junghackerinnentag um 10 Uhr verf\u00fcgbar sein."
+  },
+  "schedule_start": {
+    "conference_day": 2,
+    "time": "17:00"
+  },
+  "schedule_duration": 60,
+  "tags": [
+    "junghackerinnentag"
+  ],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-lotstationen-station-1"
+  }
+}

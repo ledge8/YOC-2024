@@ -1,0 +1,22 @@
+{
+  "name": "Infrarot Tag",
+  "slug": "infrarot-tag",
+  "location": null,
+  "language": "de",
+  "abstract": "Es gibt ca. 3 - 10 Stationen welche einen IR Empf\u00e4nger haben und einen einzelnen IR Sender. Einer der IR Empf\u00e4nger leuchtet auf und muss m\u00f6glichst schnell mit dem IR Sender \"angeleuchtet\" werden.",
+  "description": {
+    "de": null,
+    "en": "Es gibt mehrere Teile die auch von unterschiedlichenn Jugendlichen durchgef\u00fchrt werden sollten.\r\n\r\n- IR Empf\u00e4nger (braucht es 3 bis 10 mal)\r\n  - Wartet bis ein einzelner GPIO Hi ist, sobald dieser Hi ist, beginnt ein LED Stripe zu leuchten.\r\n  - Liest konstant eine IR Empf\u00e4nger Diode und falls ein korrektes Signal erkannt wird, wird ein Signal auf einem GPIO ausgegeben.\r\n- IR Sender (braucht es einmal)\r\n  - Sobald ein Knopf gedr\u00fcckt wird, gibt eine IR Diode ein Signal aus.\r\n  - Daf\u00fcr k\u00f6nnte auch eine TV Fernbediengung hinhalten oder ein Mobiltelefone das eine IR Diode hat\r\n- Zentrale (braucht es einmal)\r\n  - Alle GPIOs der IR Empf\u00e4nger werden auf die Zentrale verbunden (bei 10 Empf\u00e4ngern w\u00e4re das 20 Leitungen)\r\n    - Wenn jeder Empf\u00e4nger und die Zentrale selber auf einem Breadboard ist, reichen etwas l\u00e4ngere K\u00e4belchen um die Breadboards zu verbinden\r\n  - Es wird nach Zufall bei einem einzelnen der IR Empf\u00e4nger ein Hi Signal ausgegeben\r\n  - Ab dann werden gleichzeitig alle IR Empf\u00e4nger abgefragt\r\n  - Es wird die Zeit gemessen bis beim richtigen IR Empf\u00e4nger ein Hi ausgegeben wird\r\n  - Das wird 10 mal wiederholt, die Zeiten werden aufsummiert und in eine Bewertung umgerechnet\r\n  - Die Zeiten/Bewertung wird mittels print ausgegeben\r\n  - Gegebenenfalls mittel eines LED Stripes die Bewertung ausgegeben (Skala von 1-10)\r\n\r\nHinweis: Die IR Empf\u00e4nger sind sehr sensitiv, selbst um Ecken herum erkennen sie teilweise noch das Signal (durch Reflektionen). Man muss gegebenenfalls mit Papier/Karton/3D-Druck-Elemente die Empf\u00e4nger und Sender Dioden abschirmen. Das \"schlimmste\" was passieren k\u00f6nnte dass fast immer alle Empf\u00e4nger auf den Sender reagieren womit das Spielziel nur noch m\u00e4ssig oder kaum erreicht werden k\u00f6nnte."
+  },
+  "schedule_start": {
+    "conference_day": 3,
+    "time": "16:00"
+  },
+  "schedule_duration": 120,
+  "tags": [],
+  "banner_image": null,
+  "relations": {
+    "assembly_slug": "yoc",
+    "room_slug": "saal-a-bastelhack-und-makespace"
+  }
+}
